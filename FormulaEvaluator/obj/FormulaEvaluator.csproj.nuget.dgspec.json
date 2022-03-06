@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liwen\\Source\\Repos\\ps6-lplchampion\\Spreadsheet\\FormulaEvaluator\\FormulaEvaluator.csproj": {}
+    "C:\\Users\\u1298440\\Source\\Repos\\A6GUI\\FormulaEvaluator\\FormulaEvaluator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liwen\\Source\\Repos\\ps6-lplchampion\\Spreadsheet\\FormulaEvaluator\\FormulaEvaluator.csproj": {
+    "C:\\Users\\u1298440\\Source\\Repos\\A6GUI\\FormulaEvaluator\\FormulaEvaluator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liwen\\Source\\Repos\\ps6-lplchampion\\Spreadsheet\\FormulaEvaluator\\FormulaEvaluator.csproj",
+        "projectUniqueName": "C:\\Users\\u1298440\\Source\\Repos\\A6GUI\\FormulaEvaluator\\FormulaEvaluator.csproj",
         "projectName": "FormulaEvaluator",
-        "projectPath": "C:\\Users\\liwen\\Source\\Repos\\ps6-lplchampion\\Spreadsheet\\FormulaEvaluator\\FormulaEvaluator.csproj",
-        "packagesPath": "C:\\Users\\liwen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liwen\\Source\\Repos\\ps6-lplchampion\\Spreadsheet\\FormulaEvaluator\\obj\\",
+        "projectPath": "C:\\Users\\u1298440\\Source\\Repos\\A6GUI\\FormulaEvaluator\\FormulaEvaluator.csproj",
+        "packagesPath": "C:\\Users\\u1298440\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u1298440\\Source\\Repos\\A6GUI\\FormulaEvaluator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\liwen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\u1298440\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

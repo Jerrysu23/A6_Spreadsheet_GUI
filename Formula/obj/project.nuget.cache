@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mlexTYscb2qX7FJe+jyZf43Z7sIP1UB4MyaulfMfeQ8ixMkXnU4Fr53aQwYHxUcdvz9e/4172V4uVLP/usJjmQ==",
+  "dgSpecHash": "K1rR8u+RNBwf4ozq6DpD6MH1i3q0LgjV66Ys0T+OvzgYix5ODDDhUPZtk6U/mFCDxAdesvL/SSGgM7XjO0u7pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liwen\\Source\\Repos\\ps6-lplchampion\\Spreadsheet\\Formula\\Formula.csproj",
+  "projectFilePath": "C:\\Users\\u1298440\\Source\\Repos\\A6GUI\\Formula\\Formula.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\liwen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\liwen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\u1298440\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\u1298440\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
